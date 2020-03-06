@@ -1,5 +1,7 @@
-# MLWeek-D1
-Machine Learning Week Day 1 Presentation
+# MLWeek-D1, MLDA @ EEE
+Machine Learning Week Day 1 Part 1 Presentation
+
+**Duration: 1.5h**
 
 ## Topics
 
