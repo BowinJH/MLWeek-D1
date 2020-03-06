@@ -1,4 +1,7 @@
 # Machine Learning Week Day 1
+
+Last few slides still under WIP
+
 ## NTU, MLDA @ EEE
 **National Technological University,**
 
