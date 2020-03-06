@@ -1,4 +1,9 @@
-# MLWeek-D1, MLDA @ EEE
+# Machine Learning Week Day 1
+## NTU, MLDA @ EEE
+**National Technological University,**
+
+**Machine Learning Data Analytics @ School of Electrical and Electronic Engineering**
+
 Machine Learning Week Day 1 Part 1 Presentation
 
 **Duration: 1.5h**
